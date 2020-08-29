@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
-title = "Datura Natura"
+baseURL = "http://www.daturaflora.com"
+title = "Datura Flora"
 theme = "persian"
 languageName = "En"
 languageCode = "en-us"
@@ -90,21 +90,8 @@ icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "datura_flora"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
