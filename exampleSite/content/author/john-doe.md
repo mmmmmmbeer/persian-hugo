@@ -1,7 +1,7 @@
 ---
-title: "John Doe"
+title: "Deborah"
 image: ""
-email: "johndoe@parsian.com"
+email: "deborah@daturaflora.com"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
